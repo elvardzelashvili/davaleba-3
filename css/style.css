@@ -47,7 +47,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+* {
+	box-sizing:border-box;
 
+}
 
 /*reset css ends*/
 
@@ -184,6 +187,7 @@ width: 92%;
 	float: left;
 	margin-left: 20px;
 	margin-right: 35px;
+	margin-top: 10px;
 	
 }
 
